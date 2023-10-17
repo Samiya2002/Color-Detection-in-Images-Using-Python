@@ -3,9 +3,6 @@
 **Table of Contents**
 - [Description](#description)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -24,11 +21,11 @@ This project is a Python-based solution for detecting and analyzing colors in im
 
 - **Hex Color Codes:** The project also provides hexadecimal color codes for each detected color.
 
-## Getting Started
+## Contributing
+Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. Please follow the Contributing Guidelines.
 
-1. **Prerequisites:** Make sure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-2. **Installation:** Install the required libraries using pip:
-
-   ```bash
-   pip install opencv-python numpy scikit-learn matplotlib
+## Acknowledgments
+Special thanks to the open-source community for providing essential libraries and tools for image processing.
